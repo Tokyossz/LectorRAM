@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LectorRAM/LectorRAM.vcxproj" Id="067633e1-a95f-4504-b8a5-a00993529636" />
+</Solution>
