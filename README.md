@@ -1,4 +1,4 @@
-# Forensic Memory Analyzer PRO v1.5
+# Forensic Memory Analyzer 
 
 Herramienta en C++ para el análisis forense de memoria virtual en procesos de Windows. Permite la extracción de cadenas ASCII y UTF-16 mediante escaneo multihilo.
 
